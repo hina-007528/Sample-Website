@@ -1,6 +1,6 @@
-
+![logo](https://github.com/hina-007528/Sample-Website/blob/main/website%20sample.mp4)
 # Sample-Website
-<h1>My First Web Development Project: A Website for Beginners 🎉</h1>
+<h3>My First Web Development Project: A Website for Beginners 🎉</h3>
 Excited to share my first sample website, built as part of my journey into web development. I focused on creating a user-friendly, responsive website that works flawlessly across both desktop and mobile devices. This project is a blend of creativity and technical skills, incorporating basic web technologies such as HTML, CSS, and JavaScript.
 
 🔍 Key Features:
